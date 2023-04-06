@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\GuideLoadPicDB.exe.config
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\GuideLoadPicDB.exe
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\GuideLoadPicDB.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.Form1.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.Properties.Resources.resources
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.exe
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.pdb
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\WinformApp.netFrame\GuideLoadPicDB\GuideLoadPicDB\obj\Debug\GuideLoadPicDB.csproj.CopyComplete

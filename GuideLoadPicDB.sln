@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuideLoadPicDB", "GuideLoadPicDB\GuideLoadPicDB.csproj", "{D5E5D869-B6F7-4C2F-9A6A-A0BE01B48B28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E5D869-B6F7-4C2F-9A6A-A0BE01B48B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E5D869-B6F7-4C2F-9A6A-A0BE01B48B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E5D869-B6F7-4C2F-9A6A-A0BE01B48B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E5D869-B6F7-4C2F-9A6A-A0BE01B48B28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C542E615-0F89-4A49-A7AC-2F6DCF20E8A3}
+	EndGlobalSection
+EndGlobal
